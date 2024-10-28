@@ -123,4 +123,18 @@ do{
 
          // CLASE 6
 
-         
+         let miJugador = {
+            nombre : "Messi" ,
+            edad : 37 ,
+            posicion : 10 ,
+         }
+
+         console.log(miJugador.edad)
+         console.log(miJugador["nombre"])
+         console.log(miJugador.posicion)
+
+
+         confirm("Estas seguro?")
+         window.alert("si o no")
+
+

@@ -1,0 +1,17 @@
+nav  {
+    background-color: red;
+    display: flex;
+    justify-content: space-between;
+}
+
+.pp {
+
+display: flex;
+align-items: center;
+color: beige;
+
+}
+
+.pp li{
+
+}
